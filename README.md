@@ -5,7 +5,7 @@
 
 First install pip:
 
-'sudo apt-get install python-pip python-dev'
+> sudo apt-get install python-pip python-dev
 
 Then install tensorflow:
 
